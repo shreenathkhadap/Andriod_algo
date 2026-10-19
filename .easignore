@@ -1,0 +1,33 @@
+# .easignore
+
+# Node modules
+node_modules/
+
+# Git
+.git/
+.gitignore
+
+/android
+/ios
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+web-build/
+
+# Testing
+coverage/
+jest/
+__tests__/
+
+# Misc
+*.env
+*.key
+*.pem
+*.jks

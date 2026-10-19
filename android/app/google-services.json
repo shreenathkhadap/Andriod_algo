@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542678769713",
+    "project_id": "aksha-mobile-app",
+    "storage_bucket": "aksha-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542678769713:android:50e967eaa772ba7b3af510",
+        "android_client_info": {
+          "package_name": "com.aksha.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7WHWuULuARqsQXlQ5C7wTy_a50GiKDiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
